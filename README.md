@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React's `useEffect` hook: forgetting to include a return statement for cleanup functions.  The `bug.js` file shows the erroneous code, leading to potential memory leaks. The `bugSolution.js` file provides the corrected version with the necessary cleanup function.
